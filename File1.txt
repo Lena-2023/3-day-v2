@@ -19,7 +19,6 @@ git reset
 
 
 Глава 3
->>>>>>> feature2
 8. git commit
 Эта команда совершает коммит  — «закрепляет» промежуточные результаты.
 git commit -m “Text message”
